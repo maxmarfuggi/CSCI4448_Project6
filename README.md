@@ -1,4 +1,4 @@
-# CSCI4448_Project6
+# CSCI4448 Project6
 Final deliverables for StoreKeeper Point of Sale
 
 All source code can be found in StoreKeeper/src/com/company.
