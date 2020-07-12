@@ -1,7 +1,7 @@
-# CSCI4448 Project6
-Final deliverables for StoreKeeper Point of Sale
+# ShopKeeper POS
+Final deliverables for ShopKeeper Point of Sale
 
-All source code can be found in StoreKeeper/src/com/company.
+All source code can be found in ShopKeeper/src/com/company.
 
 Team Members: Max Marfuggi (Solo)
 
@@ -11,7 +11,7 @@ First download the entire repository. Open a terminal and navigate to the downlo
 
 Run the following shell commands:
 
-cd StoreKeeper/src/com/company 
+cd ShopKeeper/src/com/company 
 
 javac *.java
 
